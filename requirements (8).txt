@@ -1,0 +1,9 @@
+lightgbm
+yfinance
+scikit-learn
+pandas
+numpy
+pytz
+requests
+flask
+google-cloud-storage
