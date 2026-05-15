@@ -31,7 +31,7 @@ ACTIVO       = "^GSPC"
 WINDOW_PCT   = 252
 MERCADO_TZ   = pytz.timezone("America/New_York")
 DIAS_ENTRADA = {0, 1, 2}
-NOMBRES_DIA  = {0:"Lunes", 1:"Martes", 2:"Miércoles", 3:"Jueves", 4:"Viernes"}
+NOMBRES_DIA  = {0:"Lunes", 1:"Martes", 2:"Miércoles", 3:"Jueves", 4:"Viernes"} 
 
 MACRO_TICKERS = [
     "DX-Y.NYB","CL=F","HG=F","XLU","RSP","^VVIX","SMH","HYG",
