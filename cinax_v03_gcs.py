@@ -12,7 +12,7 @@ import warnings
 import requests
 from datetime import datetime
 import pytz
-warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore") 
 
 # ══════════════════════════════════════════════════════════════
 # CONFIGURACIÓN
